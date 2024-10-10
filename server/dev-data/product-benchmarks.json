@@ -1,0 +1,172 @@
+{
+  "product_benchmarks": [
+    {
+      "id": 1,
+      "product_name": "Data Stream Pro",
+      "provider_name": "MarketData Inc.",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currency": {
+        "id": 840,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1500,
+      "benchmark": 1450
+    },
+    {
+      "id": 2,
+      "product_name": "Data Stream Pro",
+      "provider_name": "MarketData Inc.",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "currency": {
+        "id": 839,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1450,
+      "benchmark": 1450
+    },
+    {
+      "id": 3,
+      "product_name": "Data Stream Pro",
+      "provider_name": "MarketData Inc.",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "currency": {
+        "id": 838,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1380,
+      "benchmark": 1350
+    },
+    {
+      "id": 4,
+      "product_name": "Data Stream Pro",
+      "provider_name": "MarketData Inc.",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "currency": {
+        "id": 837,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1320,
+      "benchmark": 1250
+    },
+    {
+      "id": 5,
+      "product_name": "Data Stream Pro",
+      "provider_name": "Telecomms",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currency": {
+        "id": 882,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1200,
+      "benchmark": 1380
+    },
+    {
+      "id": 6,
+      "product_name": "Data Stream Pro",
+      "provider_name": "Telecomms",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "currency": {
+        "id": 884,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1160,
+      "benchmark": 1300
+    },
+    {
+      "id": 7,
+      "product_name": "Data Stream Pro",
+      "provider_name": "MarketData Inc.",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "currency": {
+        "id": 886,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1100,
+      "benchmark": 1280
+    },
+    {
+      "id": 8,
+      "product_name": "Data Stream Pro",
+      "provider_name": "Telecomms",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "currency": {
+        "id": 888,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1040,
+      "benchmark": 1250
+    },
+    {
+      "id": 9,
+      "product_name": "Data Stream Pro",
+      "provider_name": "SpeeData Corp",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currency": {
+        "id": 920,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1500,
+      "benchmark": 1620
+    },
+    {
+      "id": 10,
+      "product_name": "Data Stream Pro",
+      "provider_name": "SpeeData Corp",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "currency": {
+        "id": 921,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1450,
+      "benchmark": 1550
+    },
+    {
+      "id": 11,
+      "product_name": "Data Stream Pro",
+      "provider_name": "SpeeData Corp",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "currency": {
+        "id": 922,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1380,
+      "benchmark": 1500
+    },
+    {
+      "id": 12,
+      "product_name": "Data Stream Pro",
+      "provider_name": "SpeeData Corp",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "currency": {
+        "id": 923,
+        "name": "USD",
+        "symbol": "$"
+      },
+      "payment": 1350,
+      "benchmark": 1450
+    }
+  ]
+}

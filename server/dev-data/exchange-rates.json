@@ -1,0 +1,28 @@
+{
+  "exchange_rates": [
+    {
+      "exchange_rate": 0.9152,
+      "from_currency_id": 840,
+      "to_currency_id": 111,
+      "year": 2024
+    },
+    {
+      "exchange_rate": 0.93,
+      "from_currency_id": 839,
+      "to_currency_id": 112,
+      "year": 2023
+    },
+    {
+      "exchange_rate": 0.864,
+      "from_currency_id": 838,
+      "to_currency_id": 113,
+      "year": 2022
+    },
+    {
+      "exchange_rate": 0.896,
+      "from_currency_id": 837,
+      "to_currency_id": 114,
+      "year": 2021
+    }
+  ]
+}
