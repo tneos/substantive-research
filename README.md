@@ -1,0 +1,1 @@
+Technical Test for Substantive Research API on local machine, interacts with front-end using React and NodeJS for requests and responses. Chart Component displays the actual chart requested. Please use Repository , copy url and add git clone on terminal. After that type npm install for all the dependancies.
